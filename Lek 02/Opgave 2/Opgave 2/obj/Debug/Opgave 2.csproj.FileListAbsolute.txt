@@ -1,0 +1,7 @@
+C:\Users\rune_\OneDrive\Programmering\Skole C#\Opgaver\Lek 02\Opgave 2\Opgave 2\bin\Debug\Opgave 2.exe.config
+C:\Users\rune_\OneDrive\Programmering\Skole C#\Opgaver\Lek 02\Opgave 2\Opgave 2\bin\Debug\Opgave 2.exe
+C:\Users\rune_\OneDrive\Programmering\Skole C#\Opgaver\Lek 02\Opgave 2\Opgave 2\bin\Debug\Opgave 2.pdb
+C:\Users\rune_\OneDrive\Programmering\Skole C#\Opgaver\Lek 02\Opgave 2\Opgave 2\obj\Debug\Opgave 2.csproj.CoreCompileInputs.cache
+C:\Users\rune_\OneDrive\Programmering\Skole C#\Opgaver\Lek 02\Opgave 2\Opgave 2\obj\Debug\Opgave 2.exe
+C:\Users\rune_\OneDrive\Programmering\Skole C#\Opgaver\Lek 02\Opgave 2\Opgave 2\obj\Debug\Opgave 2.pdb
+C:\Users\rune_\OneDrive\Programmering\Skole C#\Opgaver\Lek 02\Opgave 2\Opgave 2\obj\Debug\Opgave 2.csprojAssemblyReference.cache

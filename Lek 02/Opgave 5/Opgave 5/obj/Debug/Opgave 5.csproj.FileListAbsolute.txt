@@ -1,0 +1,6 @@
+C:\Users\rune_\OneDrive\Programmering\Skole C#\Opgaver\Lek 02\Opgave 5\Opgave 5\bin\Debug\Opgave 5.exe.config
+C:\Users\rune_\OneDrive\Programmering\Skole C#\Opgaver\Lek 02\Opgave 5\Opgave 5\bin\Debug\Opgave 5.exe
+C:\Users\rune_\OneDrive\Programmering\Skole C#\Opgaver\Lek 02\Opgave 5\Opgave 5\bin\Debug\Opgave 5.pdb
+C:\Users\rune_\OneDrive\Programmering\Skole C#\Opgaver\Lek 02\Opgave 5\Opgave 5\obj\Debug\Opgave 5.csproj.CoreCompileInputs.cache
+C:\Users\rune_\OneDrive\Programmering\Skole C#\Opgaver\Lek 02\Opgave 5\Opgave 5\obj\Debug\Opgave 5.exe
+C:\Users\rune_\OneDrive\Programmering\Skole C#\Opgaver\Lek 02\Opgave 5\Opgave 5\obj\Debug\Opgave 5.pdb

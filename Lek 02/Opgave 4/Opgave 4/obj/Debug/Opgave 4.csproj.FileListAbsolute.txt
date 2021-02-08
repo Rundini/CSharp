@@ -1,0 +1,7 @@
+C:\Users\rune_\OneDrive\Programmering\Skole C#\Opgaver\Lek 02\Opgave 4\Opgave 4\bin\Debug\Opgave 4.exe.config
+C:\Users\rune_\OneDrive\Programmering\Skole C#\Opgaver\Lek 02\Opgave 4\Opgave 4\bin\Debug\Opgave 4.exe
+C:\Users\rune_\OneDrive\Programmering\Skole C#\Opgaver\Lek 02\Opgave 4\Opgave 4\bin\Debug\Opgave 4.pdb
+C:\Users\rune_\OneDrive\Programmering\Skole C#\Opgaver\Lek 02\Opgave 4\Opgave 4\obj\Debug\Opgave 4.csprojAssemblyReference.cache
+C:\Users\rune_\OneDrive\Programmering\Skole C#\Opgaver\Lek 02\Opgave 4\Opgave 4\obj\Debug\Opgave 4.csproj.CoreCompileInputs.cache
+C:\Users\rune_\OneDrive\Programmering\Skole C#\Opgaver\Lek 02\Opgave 4\Opgave 4\obj\Debug\Opgave 4.exe
+C:\Users\rune_\OneDrive\Programmering\Skole C#\Opgaver\Lek 02\Opgave 4\Opgave 4\obj\Debug\Opgave 4.pdb

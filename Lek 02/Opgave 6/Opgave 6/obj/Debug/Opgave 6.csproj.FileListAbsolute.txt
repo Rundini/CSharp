@@ -1,0 +1,13 @@
+C:\Users\rune_\OneDrive\Programmering\Skole C#\Opgaver\Lek 02\Opgave 6\Opgave 6\bin\Debug\Opgave 6.exe.config
+C:\Users\rune_\OneDrive\Programmering\Skole C#\Opgaver\Lek 02\Opgave 6\Opgave 6\bin\Debug\Opgave 6.exe
+C:\Users\rune_\OneDrive\Programmering\Skole C#\Opgaver\Lek 02\Opgave 6\Opgave 6\bin\Debug\Opgave 6.pdb
+C:\Users\rune_\OneDrive\Programmering\Skole C#\Opgaver\Lek 02\Opgave 6\Opgave 6\obj\Debug\Opgave 6.csproj.CoreCompileInputs.cache
+C:\Users\rune_\OneDrive\Programmering\Skole C#\Opgaver\Lek 02\Opgave 6\Opgave 6\obj\Debug\Opgave 6.exe
+C:\Users\rune_\OneDrive\Programmering\Skole C#\Opgaver\Lek 02\Opgave 6\Opgave 6\obj\Debug\Opgave 6.pdb
+C:\Users\rune_\OneDrive\Programmering\4. Semester\Skole C#\Opgaver\Lek 02\Opgave 6\Opgave 6\bin\Debug\Opgave 6.exe.config
+C:\Users\rune_\OneDrive\Programmering\4. Semester\Skole C#\Opgaver\Lek 02\Opgave 6\Opgave 6\bin\Debug\Opgave 6.exe
+C:\Users\rune_\OneDrive\Programmering\4. Semester\Skole C#\Opgaver\Lek 02\Opgave 6\Opgave 6\bin\Debug\Opgave 6.pdb
+C:\Users\rune_\OneDrive\Programmering\4. Semester\Skole C#\Opgaver\Lek 02\Opgave 6\Opgave 6\obj\Debug\Opgave 6.csprojAssemblyReference.cache
+C:\Users\rune_\OneDrive\Programmering\4. Semester\Skole C#\Opgaver\Lek 02\Opgave 6\Opgave 6\obj\Debug\Opgave 6.csproj.CoreCompileInputs.cache
+C:\Users\rune_\OneDrive\Programmering\4. Semester\Skole C#\Opgaver\Lek 02\Opgave 6\Opgave 6\obj\Debug\Opgave 6.exe
+C:\Users\rune_\OneDrive\Programmering\4. Semester\Skole C#\Opgaver\Lek 02\Opgave 6\Opgave 6\obj\Debug\Opgave 6.pdb
