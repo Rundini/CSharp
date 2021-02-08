@@ -1,0 +1,7 @@
+C:\Users\rune_\OneDrive\Programmering\Skole C#\Opgaver\Lommeregner\Lommeregner\bin\Debug\Lommeregner.exe.config
+C:\Users\rune_\OneDrive\Programmering\Skole C#\Opgaver\Lommeregner\Lommeregner\bin\Debug\Lommeregner.exe
+C:\Users\rune_\OneDrive\Programmering\Skole C#\Opgaver\Lommeregner\Lommeregner\bin\Debug\Lommeregner.pdb
+C:\Users\rune_\OneDrive\Programmering\Skole C#\Opgaver\Lommeregner\Lommeregner\obj\Debug\Lommeregner.csprojAssemblyReference.cache
+C:\Users\rune_\OneDrive\Programmering\Skole C#\Opgaver\Lommeregner\Lommeregner\obj\Debug\Lommeregner.csproj.CoreCompileInputs.cache
+C:\Users\rune_\OneDrive\Programmering\Skole C#\Opgaver\Lommeregner\Lommeregner\obj\Debug\Lommeregner.exe
+C:\Users\rune_\OneDrive\Programmering\Skole C#\Opgaver\Lommeregner\Lommeregner\obj\Debug\Lommeregner.pdb
